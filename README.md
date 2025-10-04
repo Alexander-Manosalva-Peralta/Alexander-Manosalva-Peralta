@@ -1,6 +1,6 @@
 <!-- 💫 PERFIL FUTURISTA DE GITHUB: by Yojan Manosalva -->
 <p align="center">
-  <img src="https://github.com/Alexander-Manosalva-Peralta/Alexander-Manosalva-Peralta/blob/main/banner.png?raw=true" width="100%" alt="Banner Futurista Animado">
+  <img src="https://github.com/Alexander-Manosalva-Peralta/Alexander-Manosalva-Peralta/blob/main/banner.png" width="100%" height="auto" alt="Banner Futurista" style="border-radius:20px;">
 </p>
 
 ---
