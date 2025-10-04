@@ -8,8 +8,6 @@
     style="object-fit:cover; border-radius:20px; display:block; margin:auto;" 
   />
 </p>
----
-
 <!-- BADGES DE ENERGÍA VISUAL -->
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Desarrollador-Fullstack-blueviolet?style=for-the-badge&logo=rocket" />
