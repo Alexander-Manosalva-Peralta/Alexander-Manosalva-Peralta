@@ -8,7 +8,6 @@
     style="object-fit:cover; border-radius:20px; display:block; margin:auto; box-shadow:0 0 25px rgba(0,255,180,0.25);" 
   />
 </p>
----
 <h2 align="center" style="color:#aef5c7;">
   🪐 Bienvenido a mi universo digital
 </h2>
