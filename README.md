@@ -4,7 +4,7 @@
     src="https://github.com/Alexander-Manosalva-Peralta/Alexander-Manosalva-Peralta/blob/main/banner.png" 
     alt="Banner Futurista" 
     width="100%" 
-    height="400" 
+    height="430" 
     style="object-fit:cover; border-radius:20px; display:block; margin:auto;" 
   />
 </p>
