@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/🌎_Ubicación-Perú-003b2b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚙️_Lenguajes-Python_|_JavaScript_|_C++-004c34?style=for-the-badge" />
 </p>
----
+
 ## Sobre mí
 
 🧩 Me apasiona unir **diseño, innovación y programación** en una misma sinfonía visual.  
