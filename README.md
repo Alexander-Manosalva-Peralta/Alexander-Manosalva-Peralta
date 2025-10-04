@@ -1,131 +1,117 @@
-<!-- =========================
-     README: Perfil GitHub
-     Futurista • Dinámico • Interactivo (sin scripts)
-     Reemplaza YOUR_GITHUB_USERNAME por tu usuario
-   ========================= -->
-
-<!-- Banner animado (SVG inline simple). Si GitHub lo sanitiza, sube el SVG a tu repo y referencia la ruta -->
+<!-- 💫 PERFIL FUTURISTA DE GITHUB: by Yojan Manosalva -->
 <p align="center">
-  <!-- Banner con texto futurista -->
-  <img alt="banner" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/banner-futurista.gif" width="100%" />
+  <img src="https://i.ibb.co/4YQq8wS/futuristic-banner.gif" width="100%" alt="Banner Futurista Animado">
 </p>
 
-<h1 align="center">Hola 👋, soy <strong>Yojan Alexander Manosalva Peralta</strong></h1>
+<h1 align="center">
+  ⚡ <span style="color:#00f6ff;">Yojan Alexander Manosalva Peralta</span> ⚡
+</h1>
 <p align="center">
-  <i>Ingeniería Informática • Apasionado por IA, visualización y proyectos interactivos</i>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img alt="location" src="https://img.shields.io/badge/Ubicación-Perú-0ea5e9?style=for-the-badge" />
-  <img alt="role" src="https://img.shields.io/badge/Rol-Estudiante%20&%20Dev-8b5cf6?style=for-the-badge" />
-  <img alt="languages" src="https://img.shields.io/badge/Lenguajes-Python%20%7C%20JS%20%7C%20C%2B%2B-06b6d4?style=for-the-badge" />
-  <img alt="status" src="https://img.shields.io/badge/Status-Activo%20en%20proyectos-green?style=for-the-badge" />
+  <em>💻 Ingeniero Informático | 🚀 Creador de Proyectos Interactivos | 🌌 Amante del Futuro Digital</em>
 </p>
 
 ---
 
-## ✨ Sobre mí
-- 🎓 Estudiante de **Ingeniería Informática** — me encanta construir prototipos interactivos y visualizaciones 3D para portfolios.  
-- 🧠 Interesado en **IA**, bioinformática (peptidos), y experiencia de usuario a nivel visual.  
-- 🔭 Actualmente: mejorando mi portafolio en GitHub con gráficas, streak-stats y experiencias visuales.  
-- ⚡ Me gusta crear demos pequeñas que combinen **Three.js**, CSS/SVG animado y Python para análisis.
-
----
-
-## 📊 Estadísticas (en vivo)
-> Reemplaza `YOUR_GITHUB_USERNAME` por tu usuario real.
-
+<!-- BADGES DE ENERGÍA VISUAL -->
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://img.shields.io/badge/🚀_Desarrollador-Fullstack-blueviolet?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/🌎_Ubicación-Perú-00eaff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️_Lenguajes-Python_|_JavaScript_|_C++-ff007f?style=for-the-badge" />
 </p>
 
 ---
 
-## 🛠️ Habilidades & Herramientas
+## 🔥 Sobre mí
+
+🎯 Me encanta fusionar **tecnología + arte digital** para crear experiencias únicas.  
+💡 Mis proyectos van desde **inteligencia artificial y visión computacional** hasta **interactividad web 3D con Three.js y React**.  
+🌌 Busco que cada línea de código se sienta como parte de un universo visual.
+
+---
+
+## ⚙️ Tech Stack Futurista
 
 <p align="center">
-  <!-- Barras de progreso (simuladas con badges) -->
-  <img src="https://img.shields.io/badge/Python-90%25-ffd43b?style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-80%25-f7df1e?style=for-the-badge" alt="JS" />
-  <img src="https://img.shields.io/badge/React-75%25-61dafb?style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-70%25-8dd6f9?style=for-the-badge" alt="Three.js" />
-  <img src="https://img.shields.io/badge/PyTorch-65%25-ee4c2c?style=for-the-badge" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,aws,git,linux,vscode,figma" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend%20Stack&lineCount=3&theme=radical&line1=HTML,HTML5,f0db4f;CSS,CSS3,2965f1;JavaScript,JS,f7df1e;&line2=React,React,61dafb;TailwindCSS,Tailwind,38bdf8;&line3=Three.js,3D,8dd6f9;" />
 </p>
 
 ---
 
-## 🚀 Proyectos destacados
-> Cada tarjeta incluye imagen/gif y breve descripción. Cambia enlaces y rutas de imágenes a los tuyos.
+## 📊 Mis Stats del Futuro
 
 <div align="center">
 
-[![Proyecto 1](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/proyecto1-card.gif)](https://github.com/YOUR_GITHUB_USERNAME/proyecto-1)
-**Simulador de Gestión**  
-_Visualizaciones interactivas + mapas_ — Demo: `https://your-demo.example.com`
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
 
-&nbsp;&nbsp;
-
-[![Proyecto 2](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/proyecto2-card.gif)](https://github.com/YOUR_GITHUB_USERNAME/proyecto-2)
-**Detector de Retinopatía (Streamlit)**  
-_Modelo + UI: despliegue con Streamlit para pruebas clínicas_
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=neon-dark&hide_border=true&border_radius=15" height="180em" />
 
 </div>
 
----
-
-## 🎨 Galería / Animaciones
-> Usa GIFs o SVG animados en la carpeta `assets` de tu repo.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/visual1.gif" width="300" alt="visual1" />
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/visual2.gif" width="300" alt="visual2" />
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/visual3.gif" width="300" alt="visual3" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0f0f0f&color=00eaff&line=00f6ff&point=ff007f&hide_border=true" alt="Gráfico de actividad" />
 </p>
 
 ---
 
-## 📫 Contacto & Redes
+## 🧠 Mis Proyectos Destacados
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/proyecto-1">
+    <img src="https://i.ibb.co/VqTbH4Q/hologram.gif" width="100%" alt="Proyecto 1 Animado" />
+    <h3>💡 Simulador de Gestión</h3>
+    <p>Prototipo visual e interactivo con mapas dinámicos y IA.</p>
+  </a>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/proyecto-2">
+    <img src="https://i.ibb.co/bLj4MRR/ai-eye.gif" width="100%" alt="Detector de Retinopatía" />
+    <h3>🧬 IA para Diagnóstico Médico</h3>
+    <p>Modelo de aprendizaje profundo para retinopatía diabética con Streamlit.</p>
+  </a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🌌 Animaciones del Universo Yojan
 <p align="center">
-  <a href="mailto:yojan.manosalva@upch.pe"><img src="https://img.shields.io/badge/Email-yojan.manosalva@upch.pe-D14836?style=for-the-badge" alt="mail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge" alt="YouTube" /></a>
+  <img src="https://i.ibb.co/FHfCw0r/cyber-planet.gif" width="200">
+  <img src="https://i.ibb.co/jvR7FPk/cyber-lines.gif" width="300">
+  <img src="https://i.ibb.co/9HTWX2r/futuristic-data.gif" width="250">
 </p>
 
 ---
 
-## 🧩 Extras creativos (pequeños "hacks" visuales)
-- **Perfil con GIF animado**: sube un GIF en `assets/profile.gif` y enlázalo debajo del encabezado.  
-  `<img src="./assets/profile.gif" width="200" />`
-- **Tarjeta de progreso animada (SVG)**: crea un `assets/skill.svg` con animaciones `<animate>` y referencia con `![skill](./assets/skill.svg)` — GitHub suele mostrar SVGs subidos.
-- **Visitor Counter**:  
-  `<img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />`
-- **Timeline o roadmap**: usa una imagen larga estilo timeline (puedes generar con Figma/Canva y subirla).
+## 🛰️ Conéctate conmigo
 
----
-
-## 📌 Consejos para pulirlo aún más
-1. **Imágenes en tu repo:** guarda todos los gifs y svg en `assets/` para evitar links rotos.  
-2. **Animaciones SVG:** si quieres animación sin GIFs, sube SVGs animados (con `<animate>` y `@keyframes`) y enlázalos.  
-3. **Demo en vivo:** si tienes demos en Netlify/Streamlit/Heroku, añade botones grandes tipo CTA (Badges grandes).  
-4. **Pinear repositorios:** usa la sección de repos fijados en tu perfil para mostrar estos proyectos.  
-5. **Accesibilidad:** añade `alt` a todas las imágenes.
-
----
-
-## ❤️ Gracias por pasar
-Si quieres, te adapto este README al **estilo exacto** que prefieras (más oscuro, más neon, o minimal), y te doy una versión con los **SVGs inline** listos para copiar (para que sea aún más animado).  
-
----
-
-### Footer
 <p align="center">
-  <sub>Hecho con ❤ — Perfil creado para impresionar recruiters y colegas.  
-  Última actualización: <b>Hoy</b>.</sub>
+  <a href="mailto:yojan.manosalva@upch.pe"><img src="https://img.shields.io/badge/📧_Email-yojan.manosalva@upch.pe-00eaff?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter"></a>
+</p>
+
+---
+
+## 🌈 Contador de visitas y energía
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITAS%20AL%20PERFIL&color=00f6ff&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/NLszR4V/futuristic-line.gif" width="80%">
+</p>
+
+<h3 align="center">⚡ “El futuro no se predice, se programa.” ⚡</h3>
+
+<p align="center">
+  <img src="https://i.ibb.co/jk7LvRc/glow-divider.gif" width="60%">
 </p>
