@@ -8,9 +8,7 @@
     style="object-fit:cover; border-radius:20px; display:block; margin:auto; box-shadow:0 0 25px rgba(0,255,180,0.25);" 
   />
 </p>
-
 ---
-
 <h2 align="center" style="color:#aef5c7;">
   🪐 Bienvenido a mi universo digital
 </h2>
@@ -27,10 +25,8 @@
   <img src="https://img.shields.io/badge/🌎_Ubicación-Perú-003b2b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚙️_Lenguajes-Python_|_JavaScript_|_C++-004c34?style=for-the-badge" />
 </p>
-
 ---
-
-## 🌱 Sobre mí
+## Sobre mí
 
 🧩 Me apasiona unir **diseño, innovación y programación** en una misma sinfonía visual.  
 💡 Trabajo con tecnologías modernas como **IA, visión computacional y desarrollo web interactivo**.  
@@ -38,7 +34,7 @@
 
 ---
 
-## ⚙️ Tech Stack Verde Neón
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css,aws,git,linux,vscode,figma" />
@@ -50,7 +46,7 @@
 
 ---
 
-## 📊 Mis Stats del Futuro Verde
+## 📊 Mis Stats
 
 <div align="center">
 
