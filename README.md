@@ -1,88 +1,118 @@
-<!-- Futuristic GitHub Profile - Alexander Manosalva Peralta -->
+<!-- 💫 PERFIL FUTURISTA DE GITHUB: by Yojan Manosalva -->
 <p align="center">
-  <img src="https://i.ibb.co/THBGh2f/futuristic-banner-blue.gif" width="100%" alt="Futuristic Banner Alexander Manosalva">
+  <img src="https://i.ibb.co/4YQq8wS/futuristic-banner.gif" width="100%" alt="Banner Futurista Animado">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=4000&pause=1000&color=00F6FF&center=true&vCenter=true&width=600&lines=Alexander+Manosalva+Peralta;Ingeniero+Informático;Desarrollador+IA+%26+Web+3D;Innovando+con+Tecnología+Futurista" alt="Typing SVG" />
+  ⚡ <span style="color:#00f6ff;">Yojan Alexander Manosalva Peralta</span> ⚡
 </h1>
+<p align="center">
+  <em>💻 Ingeniero Informático | 🚀 Creador de Proyectos Interactivos | 🌌 Amante del Futuro Digital</em>
+</p>
 
 ---
 
-### 🌐 Conecta conmigo
+<!-- BADGES DE ENERGÍA VISUAL -->
 <p align="center">
-  <a href="https://github.com/Alexander-Manosalva-Peralta">
-    <img src="https://img.shields.io/badge/GitHub-00f6ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Desarrollador-Fullstack-blueviolet?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/🌎_Ubicación-Perú-00eaff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️_Lenguajes-Python_|_JavaScript_|_C++-ff007f?style=for-the-badge" />
+</p>
+
+---
+
+## 🔥 Sobre mí
+
+🎯 Me encanta fusionar **tecnología + arte digital** para crear experiencias únicas.  
+💡 Mis proyectos van desde **inteligencia artificial y visión computacional** hasta **interactividad web 3D con Three.js y React**.  
+🌌 Busco que cada línea de código se sienta como parte de un universo visual.
+
+---
+
+## ⚙️ Tech Stack Futurista
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,aws,git,linux,vscode,figma" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend%20Stack&lineCount=3&theme=radical&line1=HTML,HTML5,f0db4f;CSS,CSS3,2965f1;JavaScript,JS,f7df1e;&line2=React,React,61dafb;TailwindCSS,Tailwind,38bdf8;&line3=Three.js,3D,8dd6f9;" />
+</p>
+
+---
+
+## 📊 Mis Stats del Futuro
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=neon-dark&hide_border=true&border_radius=15" height="180em" />
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0f0f0f&color=00eaff&line=00f6ff&point=ff007f&hide_border=true" alt="Gráfico de actividad" />
+</p>
+
+---
+
+## 🧠 Mis Proyectos Destacados
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/proyecto-1">
+    <img src="https://i.ibb.co/VqTbH4Q/hologram.gif" width="100%" alt="Proyecto 1 Animado" />
+    <h3>💡 Simulador de Gestión</h3>
+    <p>Prototipo visual e interactivo con mapas dinámicos y IA.</p>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/proyecto-2">
+    <img src="https://i.ibb.co/bLj4MRR/ai-eye.gif" width="100%" alt="Detector de Retinopatía" />
+    <h3>🧬 IA para Diagnóstico Médico</h3>
+    <p>Modelo de aprendizaje profundo para retinopatía diabética con Streamlit.</p>
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:yojan.manosalva@upch.pe">
-    <img src="https://img.shields.io/badge/Email-00f6ff?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🌌 Animaciones del Universo Yojan
+<p align="center">
+  <img src="https://i.ibb.co/FHfCw0r/cyber-planet.gif" width="200">
+  <img src="https://i.ibb.co/jvR7FPk/cyber-lines.gif" width="300">
+  <img src="https://i.ibb.co/9HTWX2r/futuristic-data.gif" width="250">
 </p>
 
 ---
 
-### 👾 Sobre mí
-> 💡 **Ingeniero Informático** con pasión por la **Inteligencia Artificial**, el **desarrollo web interactivo** y la **tecnología futurista**.  
-> 🚀 Siempre en busca de fusionar **creatividad + innovación + código limpio**.  
-> 🧠 “El futuro no se espera, se programa.”
+## 🛰️ Conéctate conmigo
 
----
-
-### 🛠️ Tecnologías Futuristas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,js,html,css,aws,linux,figma,git&theme=dark" />
+  <a href="mailto:yojan.manosalva@upch.pe"><img src="https://img.shields.io/badge/📧_Email-yojan.manosalva@upch.pe-00eaff?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter"></a>
 </p>
 
 ---
 
-### 💼 Proyectos Destacados
-
-| 🚀 Proyecto | 💬 Descripción | 🌐 Enlace |
-|--------------|----------------|-----------|
-| **Mr Bardos Burger** | Página web dinámica con menú interactivo y animaciones 3D. | [Ver en GitHub](https://github.com/Alexander-Manosalva-Peralta/mr-bardos-burguer) |
-| **Simulador de Gestión de Memoria** | Proyecto educativo que simula sistemas operativos modernos. | [Ver en GitHub](https://github.com/Alexander-Manosalva-Peralta/simulador-memoria) |
-| **Detección de Retinopatía con IA** | Red neuronal para detección temprana de retinopatía diabética. | [Ver en GitHub](https://github.com/Alexander-Manosalva-Peralta/retinopatia-ia) |
-| **Mapa de Distribución de Ventas** | Sistema de geolocalización para análisis de ventas en Cajamarca. | [Ver en GitHub](https://github.com/Alexander-Manosalva-Peralta/mapa-ventas) |
-
----
-
-### 💬 Frase del Día
+## 🌈 Contador de visitas y energía
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=2000&color=00F6FF&center=true&vCenter=true&width=600&lines=El+futuro+es+ahora,+y+yo+ya+lo+estoy+construyendo...;Innovar+no+es+una+opción,+es+mi+naturaleza." alt="Typing Quote" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITAS%20AL%20PERFIL&color=00f6ff&style=flat-square" />
 </p>
 
 ---
 
-### 📊 Estadísticas Cibernéticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexander-Manosalva-Peralta&show_icons=true&theme=tokyonight&title_color=00f6ff&icon_color=00f6ff&hide_border=true" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Manosalva-Peralta&theme=tokyonight&hide_border=true&ring=00f6ff&fire=00f6ff&currStreakLabel=00f6ff" height="180">
+  <img src="https://i.ibb.co/NLszR4V/futuristic-line.gif" width="80%">
 </p>
 
----
-
-### 🌌 Lenguajes y Actividad
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Manosalva-Peralta&layout=compact&theme=tokyonight&hide_border=true&title_color=00f6ff">
-</p>
+<h3 align="center">⚡ “El futuro no se predice, se programa.” ⚡</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander-Manosalva-Peralta&theme=react-dark&bg_color=0d1117&color=00f6ff&line=00f6ff&point=ffffff&hide_border=true" />
-</p>
-
----
-
-### 🪩 Animación Final
-<p align="center">
-  <img src="https://i.ibb.co/TmtzMhT/futuristic-divider-blue.gif" width="100%">
-  <img src="https://i.ibb.co/HD02xqB/blue-cyber-eye.gif" width="250">
-  <br>
-  <b><i>“El código es mi arte, y la tecnología, mi lienzo.”</i></b>
+  <img src="https://i.ibb.co/jk7LvRc/glow-divider.gif" width="60%">
 </p>
 
