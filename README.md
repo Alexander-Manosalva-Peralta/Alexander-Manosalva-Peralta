@@ -45,14 +45,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alexander-Manosalva-Peralta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=neon-dark&hide_border=true&border_radius=15" height="180em" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Manosalva-Peralta&theme=neon-dark&hide_border=true&border_radius=15" height="180em" />
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0f0f0f&color=00eaff&line=00f6ff&point=ff007f&hide_border=true" alt="Gráfico de actividad" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander-Manosalva-Peralta&theme=react-dark&bg_color=0f0f0f&color=00eaff&line=00f6ff&point=ff007f&hide_border=true" alt="Gráfico de actividad" />
 </p>
 
 ---
@@ -62,14 +62,14 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/proyecto-1">
+  <a href="https://github.com/Alexander-Manosalva-Peralta/proyecto-1">
     <img src="https://i.ibb.co/VqTbH4Q/hologram.gif" width="100%" alt="Proyecto 1 Animado" />
     <h3>💡 Simulador de Gestión</h3>
     <p>Prototipo visual e interactivo con mapas dinámicos y IA.</p>
   </a>
 </td>
 <td align="center" width="50%">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/proyecto-2">
+  <a href="https://github.com/Alexander-Manosalva-Peralta/proyecto-2">
     <img src="https://i.ibb.co/bLj4MRR/ai-eye.gif" width="100%" alt="Detector de Retinopatía" />
     <h3>🧬 IA para Diagnóstico Médico</h3>
     <p>Modelo de aprendizaje profundo para retinopatía diabética con Streamlit.</p>
@@ -101,7 +101,7 @@
 
 ## 🌈 Contador de visitas y energía
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITAS%20AL%20PERFIL&color=00f6ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Alexander-Manosalva-Peralta&label=VISITAS%20AL%20PERFIL&color=00f6ff&style=flat-square" />
 </p>
 
 ---
