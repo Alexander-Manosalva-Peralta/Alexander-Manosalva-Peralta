@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 Mis Stats
+## 📊 Mis estadisticas
 
 <div align="center">
 
