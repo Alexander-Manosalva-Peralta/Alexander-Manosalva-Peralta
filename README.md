@@ -1,13 +1,6 @@
 <!-- 💫 PERFIL FUTURISTA DE GITHUB: by Yojan Manosalva -->
 <p align="center">
-  <img src="https://i.ibb.co/4YQq8wS/futuristic-banner.gif" width="100%" alt="Banner Futurista Animado">
-</p>
-
-<h1 align="center">
-  ⚡ <span style="color:#00f6ff;">Yojan Alexander Manosalva Peralta</span> ⚡
-</h1>
-<p align="center">
-  <em>💻 Ingeniero Informático | 🚀 Creador de Proyectos Interactivos | 🌌 Amante del Futuro Digital</em>
+  <img src="https://github.com/Alexander-Manosalva-Peralta/Alexander-Manosalva-Peralta/blob/main/banner.png?raw=true" width="100%" alt="Banner Futurista Animado">
 </p>
 
 ---
