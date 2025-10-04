@@ -2,11 +2,12 @@
 <p align="center">
   <img 
     src="https://github.com/Alexander-Manosalva-Peralta/Alexander-Manosalva-Peralta/blob/main/banner.png" 
+    alt="Banner Futurista" 
     width="100%" 
-    style="max-height:180px; object-fit:cover; border-radius:20px;" 
-    alt="Banner Futurista">
+    height="150" 
+    style="object-fit:cover; border-radius:20px; display:block; margin:auto;" 
+  />
 </p>
-
 ---
 
 <!-- BADGES DE ENERGÍA VISUAL -->
